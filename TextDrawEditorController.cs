@@ -11,10 +11,9 @@ using System.Text;
 using SampSharp.GameMode.SAMP;
 using SampSharp.GameMode.Definitions;
 using System.IO;
-using System.ComponentModel.Design;
-using Microsoft.VisualBasic;
 
-namespace staterp
+
+namespace TextDrawEditorModel
 {
     [Controller]
     public class TextDrawEditorController : IEventListener

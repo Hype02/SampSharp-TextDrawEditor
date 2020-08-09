@@ -13,7 +13,7 @@ using SampSharp.GameMode.Definitions;
 using SampSharp.GameMode.Pools;
 
 
-namespace staterp
+namespace TextDrawEditorModel
 {
     public class TempTextDraw
     {
