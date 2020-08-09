@@ -30,6 +30,7 @@ TextDrawEditor abilities:
 - Hide textdraw from screen
 - Lots of commands to make your editing faster and easier
 - SampSharp controller support
+- BEST: In your root directory, go to s#tde -> textdraws -> your_textdraw_name.txt just copy your "ready-to-go" code and paste in your gamemode script!
 
 TO DO:
 - Deleting textdraw from in game menu (for now delete files  by hand - [your_txd_name].txd and  [your_txd_name].json)
