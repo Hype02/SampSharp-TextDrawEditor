@@ -5,17 +5,6 @@ INSTALLATION:
 2. Include namespace: TextDrawEditorModel in your file where you keep "LoadControllers" function
 3. Add Controller by copying-pasting this line of code:
 controllers.Add(new StreamerController());
-
-Finally it should look like this:
-
-  public partial class GameMode : BaseMode
-    {
-        protected override void LoadControllers(ControllerCollection controllers)
-        {
-            controllers.Add(new TextDrawController());
-            base.LoadControllers(controllers);
-        }
-     }
      
      That's all, if you meet any issue please message pull an Issue
 
