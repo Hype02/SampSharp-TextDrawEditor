@@ -1,9 +1,9 @@
 # SampSharpTextDrawEditor
 
 INSTALLATION:
-1. Put two .cs files in your project's directory
-2. Include namespace: TextDrawEditorModel in your file where you keep "LoadControllers" function
-3. Add Controller by copying-pasting this line of code:
+1. Create a folder in your project and name it as you want, I suggest you to name it "TextDrawEditor"
+2. Move those files into the folder you created before.
+3. Done. Start your server and type: /txd
 controllers.Add(new StreamerController());
      
      That's all, if you meet any issue please message pull an Issue
