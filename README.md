@@ -25,4 +25,4 @@ TO DO:
 - Deleting textdraw from in game menu (for now delete files  by hand - [your_txd_name].txd and  [your_txd_name].json)
 - TextDraw rename from in game menu (for now do it manually in your "textdraws" folder)
 
-https://i.imgur.com/SmV54xF.png
+![example](https://i.imgur.com/SmV54xF.png)
