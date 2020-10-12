@@ -26,3 +26,4 @@ TO DO:
 - TextDraw rename from in game menu (for now do it manually in your "textdraws" folder)
 
 ![example](https://i.imgur.com/SmV54xF.png)
+![example2](https://imgur.com/tHLBqiG.png)
